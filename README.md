@@ -32,4 +32,4 @@ MySQL, SQLite, Oracle
 
 ---
 
-[![Hits](https://hits.sh/github.com/zZOKofficial/zZOKofficial.svg?style=plastic&color=007ec6)](https://hits.sh/github.com/zZOKofficial/zZOKofficial/)
+[![Hits](https://hits.sh/github.com/zZOKofficial/zZOKofficial.svg?style=plastic&color=007ec6&logo=Github)](https://hits.sh/github.com/zZOKofficial/zZOKofficial/)
