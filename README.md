@@ -32,8 +32,4 @@ MySQL, SQLite, Oracle
 
 ---
 
-<p align="center">
-  <a href="https://hits.sh/github.com/zZOKofficial/zZOKofficial/">
-    <img src="https://hits.sh/github.com/zZOKofficial/zZOKofficial.svg?style=for-the-badge&label=Views&color=54856b" alt="Profile Views"/>
-  </a>
-</p>
+[![Hits](https://hits.sh/github.com/zZOKofficial/zZOKofficial.svg?style=plastic&color=007ec6)](https://hits.sh/github.com/zZOKofficial/zZOKofficial/)
