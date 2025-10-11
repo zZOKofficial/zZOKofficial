@@ -16,7 +16,7 @@ Experienced with both native and cross-platform development, backend integration
 ### Skills
 
 **Languages**  
-Java, Kotlin, Python, PHP, JavaScript
+C++, Java, Kotlin, Python, PHP, JavaScript
 
 **Frameworks & Tools**  
 Jetpack Compose, ReactJS, Django, Blade, Capacitor, Cordova
